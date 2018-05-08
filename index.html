@@ -1,4 +1,3 @@
-<?php include('./lib.inc'); ?>
 <!DOCTYPE html>
 <html>
 <head>
